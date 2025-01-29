@@ -13,7 +13,7 @@ const BulletPoints = () => {
       <li>🎮 loving to play games</li>
       <li>🧇 waffles lover❤️</li>
       <li><a href="mailto:vijaykumarnr04@gmail.com">📧 let's get in touch!</a></li>
-      <li>📝download my <a className="link link-primary" href="/PaytonPierceResume.pdf" download="PaytonPierceResume">resume</a></li>
+      <li>📝download my <a className="link link-primary" href="/Vijayakumar_CV.pdf" download="VijayakumarCV">resume</a></li>
     </ul>
   )
 }
